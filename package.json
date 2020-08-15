@@ -1,0 +1,26 @@
+{
+  "name": "rn-circle-menu",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/DeveloperSoFarApps/rn-circle-menu.git"
+  },
+  "keywords": [
+    "react",
+    "rn",
+    "native",
+    "menu"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "@react-native-community/art": "^1.2.0"
+  },
+  "author": "DevSoFar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeveloperSoFarApps/rn-circle-menu/issues"
+  },
+  "homepage": "https://github.com/DeveloperSoFarApps/rn-circle-menu#readme"
+}
