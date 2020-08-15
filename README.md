@@ -21,14 +21,14 @@ This library edited and updated based on [Ramotion Library](https://github.com/R
 Use the package manager [npm](https://www.npmjs.com/) to install RN Circle Menu. 
 Using npm 
 ```bash
-npm install --save rn-circle-menu prop-types @react-native-community/art
+npm install --save react-native-circle-menu prop-types @react-native-community/art
 ```
 
 OR 
 Use the package manager [yarn](https://classic.yarnpkg.com/en/docs/install/) to install RN Circle Menu. 
 Using npm 
 ```bash
-yarn add rn-circle-menu prop-types @react-native-community/art
+yarn add react-native-circle-menu prop-types @react-native-community/art
 ```
 
 
